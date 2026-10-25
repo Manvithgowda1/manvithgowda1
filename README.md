@@ -109,7 +109,7 @@ Build it. Test it. Make it better.
 
 <div align="center">
 
-<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue&hide_border=true" alt="Dynamic GitHub contribution streak" />
+<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=Manvithgowda1&theme=github-dark-blue&hide_border=true" alt="Dynamic GitHub contribution streak" />
 
 <br/><br/>
 
