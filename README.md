@@ -13,13 +13,13 @@
 
 <br/>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/manvithgowdaa/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-161B22?style=for-the-badge&logo=linkedin&logoColor=58A6FF" />
 </a>
-<a href="YOUR_PORTFOLIO_URL">
+<!-- <a href="YOUR_PORTFOLIO_URL">
   <img src="https://img.shields.io/badge/Portfolio-Explore-161B22?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-<a href="YOUR_LEETCODE_URL">
+</a> -->
+<a href="https://leetcode.com/u/manvithgowdaa/">
   <img src="https://img.shields.io/badge/LeetCode-Practice-161B22?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
 </a>
 
@@ -191,7 +191,7 @@ that people can actually use.
 
 ### Thanks for visiting my profile! ⭐
 
-*Always learning. Always building.*
+*Being Productive*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:161B22,100:1F6FEB&height=100&section=footer" width="100%" />
 
