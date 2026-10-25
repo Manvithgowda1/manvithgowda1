@@ -27,7 +27,7 @@
 
 ---
 
-## `01` — About Me
+## About Me
 
 ```python
 class Developer:
@@ -64,110 +64,63 @@ Build it. Test it. Make it better.
 
 ---
 
-## `02` — Tech Stack
+
+## `technical_skills`
+
+### 💻 Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-161B22?style=flat-square&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/C++-161B22?style=flat-square&logo=cplusplus&logoColor=00599C" />
+  <img src="https://img.shields.io/badge/HTML5-161B22?style=flat-square&logo=html5&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/CSS3-161B22?style=flat-square&logo=css3&logoColor=1572B6" />
+  <img src="https://img.shields.io/badge/SQL-161B22?style=flat-square&logo=postgresql&logoColor=4169E1" />
+</p>
+
+### 🛠️ Tools & Platforms
+<p>
+  <img src="https://img.shields.io/badge/Vercel-161B22?style=flat-square&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-161B22?style=flat-square&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/GitHub-161B22?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Antigravity-161B22?style=flat-square" />
+  <img src="https://img.shields.io/badge/Jupyter_Notebook-161B22?style=flat-square&logo=jupyter&logoColor=F37626" />
+</p>
+
+### 🧠 Core Concepts
+<p>
+  <img src="https://img.shields.io/badge/DSA-161B22?style=flat-square" />
+  <img src="https://img.shields.io/badge/OOP-161B22?style=flat-square" />
+  <img src="https://img.shields.io/badge/Operating_Systems-161B22?style=flat-square" />
+  <img src="https://img.shields.io/badge/DBMS-161B22?style=flat-square" />
+  <img src="https://img.shields.io/badge/Machine_Learning-161B22?style=flat-square" />
+</p>
+
+### 🤖 AI / ML Tools
+<p>
+  <img src="https://img.shields.io/badge/Hugging_Face-161B22?style=flat-square&logo=huggingface&logoColor=FFD21E" />
+  <img src="https://img.shields.io/badge/Ollama-161B22?style=flat-square" />
+  <img src="https://img.shields.io/badge/NumPy-161B22?style=flat-square&logo=numpy&logoColor=4DABCF" />
+  <img src="https://img.shields.io/badge/Matplotlib-161B22?style=flat-square" />
+  <img src="https://img.shields.io/badge/scikit--learn-161B22?style=flat-square&logo=scikitlearn&logoColor=F7931E" />
+  <img src="https://img.shields.io/badge/Kaggle-161B22?style=flat-square&logo=kaggle&logoColor=20BEFF" />
+</p>
+
+
+## `$ github_activity`
 
 <div align="center">
 
-### Languages
-<img src="https://skillicons.dev/icons?i=cpp,python,js,sql&theme=dark" />
+<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue&hide_border=true" alt="Dynamic GitHub contribution streak" />
 
-### Development
-<img src="https://skillicons.dev/icons?i=react,fastapi,html,css,postgres&theme=dark" />
+<br/><br/>
 
-### AI / Data
-<img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch&theme=dark" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub statistics" />
 
-### Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker&theme=dark" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true" alt="Most used languages" />
 
 </div>
 
----
 
-## `03` — Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🛡️ CyberCafe
-**Explainable AI × Cybersecurity**
-
-An AI-driven cybersecurity framework designed to help small businesses understand suspicious network activity.
-
-- ML-based threat detection
-- Explainable predictions
-- Security-focused analysis
-
-`Python` `Machine Learning` `Cybersecurity`
-
-</td>
-<td width="50%" valign="top">
-
-### 🚨 CRISIS-AI
-**AI × Emergency Assistance**
-
-An AI-powered emergency voice assistant designed around speech processing and intelligent information retrieval.
-
-- Voice-based interaction
-- Retrieval-augmented responses
-- Weather risk prediction
-
-`Python` `FAISS` `XGBoost` `AI`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🚀 ProUp
-**Full-Stack × Student Hiring**
-
-An event-based platform designed to connect students and companies through skill-building activities and hiring opportunities.
-
-- Role-based dashboards
-- Event and participant management
-- SQL-backed application architecture
-
-`React` `FastAPI` `SQL`
-
-</td>
-<td width="50%" valign="top">
-
-### 🧠 DSA in C++
-**Problem Solving × Algorithms**
-
-A structured collection of coding problems and approaches to strengthen problem-solving skills for software engineering interviews.
-
-- Arrays and binary search
-- Sliding window and hashing
-- Complexity analysis
-
-`C++` `Algorithms` `DSA`
-
-</td>
-</tr>
-</table>
-
-> Replace the project names above with links to the corresponding repositories once you add their URLs.
-
----
-
-## `04` — GitHub Activity
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub statistics" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Most used languages" />
-
-<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub contribution streak" />
-
-</div>
-
----
-
-## `05` — Currently Working On
+## Currently Working On
 
 - Building reliable backend APIs and full-stack applications.
 - Improving DSA and core computer science fundamentals.
@@ -177,15 +130,6 @@ A structured collection of coding problems and approaches to strengthen problem-
 
 ---
 
-## `06` — Beyond the Code
-
-```text
-Problem → Research → Design → Build → Test → Improve
-```
-
-I believe good developers don't just write code.
-They understand problems, question assumptions, and build solutions
-that people can actually use.
 
 <div align="center">
 
